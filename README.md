@@ -1,6 +1,5 @@
 ## Hi there 👋😊!
 
-## About Me
 My name is Nethania M. I am a recent CSUN computer engineering graduate.
 
 🔭 I’m currently working on fun personal projects to expand my knowledge of robotics.
