@@ -1,14 +1,6 @@
 ## Hi there 👋😊!
 
-My name is Nethania M. I am a recent CSUN computer engineering graduate.
-
-🔭 I’m currently working on fun personal projects to expand my knowledge of robotics.
-
-💬 Ask me about anything computer-related.
-
-📫 How to reach me: email at nmoralesbusiness@gmail.com
-
-😎 Fun Fact: I have two pet parrots and a Siberian Husky/German Shepherd mix.
+My name is Nethania. I am a recent computer engineering graduate from California State University, Northridge. I have a strong passion for robotics, creating software solutions, building hardware, using the knowledge I have gained to help solve problems using tech, and continuing to grow as a computer engineer through project creation. Feel free to reach any time through email: nmoralesbusiness@gmail.com
 
 <details>
 <summary> My Top Programming Languages</summary>
