@@ -48,6 +48,7 @@ This repository will contain a collection of all personal projects, academic wor
   - Traffic Light Detection
   - Overtake
   - Collision Detection and Handling
+[Click Here To View Project Repo](https://github.com/nethaniam/Projects/tree/main/ECE595RL_Final_Project)
 
 #### Serial to Parallel Logic Converter
 - **Technologies Used:** Xilinx Vivado
