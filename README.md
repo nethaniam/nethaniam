@@ -85,4 +85,4 @@ Feel free to reach me via email!
 
 > "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." John 3:16
 
->"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." Acts 2:38
+>"Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit." Acts 2:38
