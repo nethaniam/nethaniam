@@ -65,6 +65,7 @@ after the last 32 bits of data are written into the last memory block to read
 
 #### Flash Memory at the Transistor Level (Research Paper)
 - This project is a research paper diving into the topic of flash memory. The paper discusses what types of flash memory there are, how they are structured, and how they work including all advantages and disadvantages, how flash memory works at the transistor level, specifically examining the floating gate transistor, looking at NAND versus NOR flash memory, and N-type versus P-type floating gate transistors.
+  [Download My Research Paper Here](https://github.com/nethaniam/Projects/blob/main/Research/Flash%20Memory%20at%20the%20Transistor%20Level.html)
 
 #### The CleanBot3000
 - In collaboration with NASA JPL, a group of students were tasked with the
