@@ -22,6 +22,7 @@ This repository will contain a collection of all personal projects, academic wor
 | MATLAB              | Engineering      | Intermediate      |
 | Xilinx              | FPGA Dev         | Advanced          |
 | Cadence             | Hardware Tools   | Intermediate      |
+| CCStudio            | Software Tool    | Advanced          |
 
 #### Development Platforms
 | Hardware            | Category         | Experience Level  |
