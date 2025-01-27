@@ -65,6 +65,7 @@ when it is the turn for the data to be written into that block
   - There should be a read signal that is sent to all blocks at the same time
 after the last 32 bits of data are written into the last memory block to read
 1 address line including 128 bits of data
+- [Click Here to View Project Repo](https://github.com/nethaniam/Projects/tree/main/Final_Project)
 
 #### Flash Memory at the Transistor Level (Research Paper)
 - This project is a research paper diving into the topic of flash memory. The paper discusses what types of flash memory there are, how they are structured, and how they work including all advantages and disadvantages, how flash memory works at the transistor level, specifically examining the floating gate transistor, looking at NAND versus NOR flash memory, and N-type versus P-type floating gate transistors.
